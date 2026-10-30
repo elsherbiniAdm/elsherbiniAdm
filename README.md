@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**elsherbiniAdm/elsherbiniAdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mi chiamo adm e mi piacciono i videogiochi
+
+## ❤️ Le mie passioni
+
+- videogiochi
+- calcio
+- informatica
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- html
+- c
+- flowgoritm
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+niente
+
+## 🔍 Cosa mi piacerebbe imparare
+
+programmare videogiochi
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+fare un videogioco simulatore di calcio grande che batte fc27
+
+## 🎯 Guardando al futuro
+
+diventero ricco sfondato con una rolsroyce e una famiglia di leopardi in giro per la casa,ah no scusa in giro per la villa
